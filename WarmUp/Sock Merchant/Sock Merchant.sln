@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Sock Merchant", "Sock Merchant\Sock Merchant.pyproj", "{5CBE8E96-3896-4489-A52B-E15FC1DAE224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CBE8E96-3896-4489-A52B-E15FC1DAE224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBE8E96-3896-4489-A52B-E15FC1DAE224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BD2FF28-F5EF-4F36-9935-EEEB4CE0D2DE}
+	EndGlobalSection
+EndGlobal
