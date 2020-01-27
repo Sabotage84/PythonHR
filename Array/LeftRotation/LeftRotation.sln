@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LeftRotation", "LeftRotation\LeftRotation.pyproj", "{739934FD-B9BB-4460-8A7D-C4B0376047D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739934FD-B9BB-4460-8A7D-C4B0376047D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739934FD-B9BB-4460-8A7D-C4B0376047D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9364024A-83CF-4EC8-A172-48A420B8270B}
+	EndGlobalSection
+EndGlobal
